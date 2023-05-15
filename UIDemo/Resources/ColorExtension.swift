@@ -13,4 +13,5 @@ extension Color {
     static let themeForeground = Color("ForegroundColor")
     static let themeSecondary = Color("SecondaryColor")
     static let themeTertiary = Color("TertiaryColor")
+    static let themeBackground2 = Color("BackgroundColor2")
 }

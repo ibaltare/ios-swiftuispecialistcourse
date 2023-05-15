@@ -25,6 +25,9 @@
 		379781A72A0C9D35004E80AB /* Example3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 379781A62A0C9D35004E80AB /* Example3.swift */; };
 		37EC34D42A11A5D100BA8DB0 /* Login2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EC34D32A11A5D100BA8DB0 /* Login2.swift */; };
 		37EC34D62A11AF5F00BA8DB0 /* ExtractedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EC34D52A11AF5F00BA8DB0 /* ExtractedView.swift */; };
+		37EC34D92A11F8F500BA8DB0 /* GExample1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EC34D82A11F8F500BA8DB0 /* GExample1.swift */; };
+		37EC34DB2A12068200BA8DB0 /* GExample2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EC34DA2A12068200BA8DB0 /* GExample2.swift */; };
+		37EC34DD2A12094600BA8DB0 /* GExample3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37EC34DC2A12094600BA8DB0 /* GExample3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +50,9 @@
 		379781A62A0C9D35004E80AB /* Example3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example3.swift; sourceTree = "<group>"; };
 		37EC34D32A11A5D100BA8DB0 /* Login2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login2.swift; sourceTree = "<group>"; };
 		37EC34D52A11AF5F00BA8DB0 /* ExtractedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedView.swift; sourceTree = "<group>"; };
+		37EC34D82A11F8F500BA8DB0 /* GExample1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GExample1.swift; sourceTree = "<group>"; };
+		37EC34DA2A12068200BA8DB0 /* GExample2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GExample2.swift; sourceTree = "<group>"; };
+		37EC34DC2A12094600BA8DB0 /* GExample3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GExample3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,6 +175,9 @@
 		37EC34D72A11F47E00BA8DB0 /* Gradients */ = {
 			isa = PBXGroup;
 			children = (
+				37EC34D82A11F8F500BA8DB0 /* GExample1.swift */,
+				37EC34DA2A12068200BA8DB0 /* GExample2.swift */,
+				37EC34DC2A12094600BA8DB0 /* GExample3.swift */,
 			);
 			path = Gradients;
 			sourceTree = "<group>";
@@ -255,9 +264,12 @@
 				376974982A0DBEBA00450901 /* LExample1.swift in Sources */,
 				3769749C2A0DC78000450901 /* LExample3.swift in Sources */,
 				379781A72A0C9D35004E80AB /* Example3.swift in Sources */,
+				37EC34D92A11F8F500BA8DB0 /* GExample1.swift in Sources */,
+				37EC34DB2A12068200BA8DB0 /* GExample2.swift in Sources */,
 				379781A52A0C8721004E80AB /* Example2.swift in Sources */,
 				37EC34D62A11AF5F00BA8DB0 /* ExtractedView.swift in Sources */,
 				372B33B42A107DE7006A3CEA /* Login.swift in Sources */,
+				37EC34DD2A12094600BA8DB0 /* GExample3.swift in Sources */,
 				376974A22A0E091700450901 /* ColorExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
