@@ -1,0 +1,27 @@
+//
+//  CExample1.swift
+//  UIDemo
+//
+//  Created by Nicolas on 11/05/23.
+//
+
+import SwiftUI
+
+struct CExample1: View {
+    var body: some View {
+        ZStack {
+            Color.themeSecondary
+            Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+                .font(.largeTitle)
+                .fontWeight(.bold)
+                .foregroundColor(Color.themeAccent)
+        }
+        
+    }
+}
+
+struct CExample1_Previews: PreviewProvider {
+    static var previews: some View {
+        CExample1()
+    }
+}
